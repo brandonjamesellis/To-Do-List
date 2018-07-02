@@ -1,10 +1,10 @@
 body {
 	font-family: Roboto;
-  background: -webkit-linear-gradient(90deg, #FF530D 10%, #FFF000 90%); /* Chrome 10+, Saf5.1+ */
-  background:    -moz-linear-gradient(90deg, #FF530D 10%, #FFF000 90%); /* FF3.6+ */
-  background:     -ms-linear-gradient(90deg, #FF530D 10%, #FFF000 90%); /* IE10 */
-  background:      -o-linear-gradient(90deg, #FF530D 10%, #FFF000 90%); /* Opera 11.10+ */
-  background:         linear-gradient(90deg, #FF530D 10%, #FFF000 90%); /* W3C */
+  background: -webkit-linear-gradient(90deg, #e5e5e5 10%, #999 90%); /* Chrome 10+, Saf5.1+ */
+  background:    -moz-linear-gradient(90deg, #e5e5e5 10%, #999 90%); /* FF3.6+ */
+  background:     -ms-linear-gradient(90deg, #e5e5e5 10%, #999 90%); /* IE10 */
+  background:      -o-linear-gradient(90deg, #e5e5e5 10%, #999 90%); /* Opera 11.10+ */
+  background:         linear-gradient(90deg, #e5e5e5 10%, #999 90%); /* W3C */
 }
 
 ul {
@@ -15,7 +15,7 @@ ul {
 
 
 h1 {
-	background: #000;
+	background: #333;
 	color: white;
 	margin: 0;
 	padding: 10px 20px;
@@ -79,7 +79,7 @@ input:focus{
 	width: 360px;
 	margin: 100px auto;
 	background: #f7f7f7;
-	box-shadow: 0 0 3px rgba(0,0,0, 0.1);
+	box-shadow: 0 0 50px rgba(0,0,0, 0.9);
 }
 
 .completed {
